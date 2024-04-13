@@ -1,4 +1,4 @@
-![image](https://github.com/acisoru/MIA_CTF2024/assets/105747950/b2269695-9f1b-4c25-b3a6-37c2f6df68b0)#MIA Site
+#MIA Site
 
 ###Сложность
 easy
