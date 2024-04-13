@@ -8,4 +8,5 @@ easy
 
 ### Решение 
 Открыть код страницы и по поиску найти флаг 
+
 ![image](https://github.com/acisoru/MIA_CTF2024/assets/105747950/42cb3c20-67be-413d-bc31-12116a86dd53)
