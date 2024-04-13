@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="lean">
+	<title>jwt</title>
+</head>
+
+<body>
+	<section id="wrapper">
+
+		<div class="spacer"></div>
+		<div id="narration-and-select">
+			<form id="narration" action="/" method="post">
+				<h4>hello! this page contains a secret</h4>
+                <p>'get jwt token' - enter your name and get a jwt token</p>
+                <p>'check token' - enter your token and get the secret if you are the admin</p>
+				<input id="narrationInput" placeholder="username" type="text" name="user">
+				<button id="narrationButton" type="submit">get jwt token</button>
+			</form>
+
+            <form id="check_jwt" action="/" method="post">
+				<input id="narrationInput" placeholder="token" type="text" name="token">
+				<button id="narrationButton" type="submit">check token</button>
+			</form>
+
+		</div>
+        {% if context == "" %}
+            <p>enter your name to get jwt token</p>
+        {% else %}
+            <p>{{context}}</p>
+        {% endif %}
+    </section>
+</body>
+
+</html>

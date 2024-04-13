@@ -1,0 +1,8 @@
+version: '3'
+services:
+  tournament:
+    build: .
+    ports:
+      - 8081:8081
+    environment:
+      - FLAG=miactf{4x3lr0d_w1ll_b3_pr0ud_0f_y0u}

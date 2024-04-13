@@ -1,0 +1,19 @@
+"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
+"The computer was born to solve problems that did not exist before." - Bill Gates
+"Software is a great combination between artistry and engineering." - Bill Gates
+"Technology is best when it brings people together." - Matt Mullenweg
+"The best way to predict the future is to invent it." - Alan Kay
+"Code is like humor. When you have to explain it, it’s bad." - Cory House
+"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+"Computers are useless. They can only give you answers." - Pablo Picasso
+"Technology is anything that wasn’t around when you were born." - Alan Kay
+"Software is eating the world." - Marc Andreessen
+"The only way to do great work is to love what you do." - Steve Jobs
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+"Good code is its own best documentation." - Steve McConnell
+"Premature optimization is the root of all evil." - Donald Knuth
+"Programming is the art of telling another human what one wants the computer to do." - Donald Knuth
+"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e., it always increases." - Norman Augustine
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." - Linus Torvalds
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+"First, solve the problem. Then, write the code." - John Johnson

@@ -1,0 +1,4 @@
+flask==2.3.2
+pyjwt==1.7.0
+cryptography==36.0.2
+Flask_Bcrypt==1.0.1

@@ -1,0 +1,10 @@
+version: '3'
+services:
+  crypto_web:
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4444:4444"
+

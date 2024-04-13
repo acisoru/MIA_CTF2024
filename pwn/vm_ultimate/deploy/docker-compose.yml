@@ -1,0 +1,10 @@
+services:
+  vm_ultimate:
+    build: .
+    restart: unless-stopped
+    pids_limit: 512
+    read_only: true
+    mem_limit: 128M
+    cpus: 1
+    ports: 
+      - "1777:1777"

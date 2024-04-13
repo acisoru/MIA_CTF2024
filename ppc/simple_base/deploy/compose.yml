@@ -1,0 +1,8 @@
+version: '3'
+services:
+  simple_base:
+    build: .
+    ports:
+      - 8080:8080 
+    environment:
+      - FLAG=miactf{ju57_51mpl3_b453}
